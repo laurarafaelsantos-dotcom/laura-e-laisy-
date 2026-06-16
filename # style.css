@@ -15,4 +15,13 @@ div{ margin: 19px;
    
 }   
 
-a
+a{
+    color:black;
+    border:     4px ;
+}
+
+  .links{
+  display: flex;
+  flex-direction: column;
+
+  
