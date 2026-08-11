@@ -1,9 +1,9 @@
-foto{
+.foto{
     width: 30%
 }
 
 body{
-    background-color: #98fb98;
+    background-color: (219, 61%, 50%);
     display: flex;
 
 align-items: center;
@@ -20,8 +20,8 @@ a{
     border:     4px ;
 }
 
-  .links{
-  display: flex;
-  flex-direction: column;
-
+.links{
+ display: flex;
+ flex-direction: column;
+}
   
